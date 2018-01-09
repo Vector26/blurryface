@@ -37,7 +37,7 @@ HOW TO USE :--->
 
 TO ENCRYPT
  
-1.)  Open Encrypt.py
+1.)  Open Encrypt.exe
 2.)Type the full path of  the file and filename
 3.)Type the renamed  name of the file with extension
 4.)Click ENTER
@@ -45,7 +45,7 @@ TO ENCRYPT
 
 TO DECRYPT
 
-1.)Open Decrypt.py
+1.)Open Decrypt.exe
 2.)Type the full path of  the file and filename to be decrypted
 
 P.S.:File will added a 'encr' suffix after encryption

@@ -43,7 +43,7 @@ TO DECRYPT
 1.)Open Decrypt.py
 2.)Type the full path of  the file and filename to be decrypted
 
-P.S.:File will added a 'encr' suffix after encryption
+P.S.:File will add a 'encr' prefix after encryption
 
 3.)Type the renamed  name of the file with extension
 4.)Click ENTER
